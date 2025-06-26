@@ -20,7 +20,6 @@ This project focuses on forecasting the future demand for books by analyzing the
 - 📈 **Visualization Tools** for trend analysis  
 
 ---
----
 
 ## 🧪 Sample Workflow
 
